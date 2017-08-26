@@ -1,6 +1,6 @@
-# Automation Project
+# Amazon Project
 
-*Structure for creating a Basic automation test using Selenium.*
+#Basic automation test for Amazon.com using Selenium WebDriver.*
 
 **Java 8**
 
